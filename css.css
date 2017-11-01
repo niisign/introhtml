@@ -1,0 +1,121 @@
+#page-wrapper{
+<<<<<<< HEAD
+
+  width: 100%;
+  min-height: 400px;
+  background-color: gray;
+  position: fixed
+}
+
+#banner {
+  width: 100%;
+  height: 150px;
+  background-color: blue
+}
+
+
+  width: 100%;
+  min-height: 400px;
+  background-color: gray;
+  position: fixed"
+}
+#banner{
+  width: 100%;
+  height: 150px;
+  background-color: lightblue;
+}
+
+#side-bar{
+  width: 25%;
+  height: 440px;
+  background-color: red;
+
+  float: left;
+  position: static
+}
+
+
+  float: left; position: static;
+}
+
+#content{
+  width: 75%;
+  height: 400px;
+  background-color: yellow;
+  float: right;
+<<<<<<< HEAD
+  position: static
+}
+
+#footer{
+  width: 75%;
+  height: 40px;
+  background-color: black;
+  float: right;
+  position: static
+}
+
+body{
+  background-color: purple
+}
+
+
+  position: static;
+}
+#footer{
+  width: 75%;
+  height:  40px;
+  background-color: black;
+  float: right;
+}
+body{
+  background-color: purple;
+}
+
+.cards{
+  width: 33%;
+  height: 100px;
+  float: left;
+<<<<<<< HEAD
+  border: 1px dotted black
+}
+
+.cards-title{
+
+
+  border: 1px solid black;
+
+  width: 100%; min-height: 400px; background-color: green; position: fixed
+=======
+  width: 100%; min-height: 400px; background-color: green; position: fixed
+}
+
+#banner
+{
+   width: 100% ; height: 150px; background-color: red
+}
+
+#side-bar{
+ width: 25%; height: 500px; background-color: yellow; float: left; position: static
+}
+
+
+#content{
+width: 75%; height: 450px; background-color: black; float: right; position: static
+
+}
+
+#footer{
+width: 75%; height: 50px; background-color: orange; float: right; position: static
+}
+
+body{
+background-color: pink;
+}
+.cards{
+width: 33%;
+height: 100px;
+float: left;
+border: 1px dotted green
+>>>>>>> 754d39a2181042f4fe8bd9be3ab583d9555c4da0
+}
