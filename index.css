@@ -35,6 +35,14 @@
   border: 1px dotted black;
   float: left;
 }
+#site-logo{
+  width:30%;
+  margin-top:2.5px;
+  border-radius: 80%;
+}
+#app-name{
+  margin-top: 8px;
+}
 body{
   background-color: purple;
 }
